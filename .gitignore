@@ -1,0 +1,7 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+.babelrc
+.watchmanconfig
+assets/icons/app-icon.png
+assets/icons/loading-icon.png
